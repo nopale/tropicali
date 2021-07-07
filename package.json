@@ -1,0 +1,32 @@
+{
+  "name": "tropicali",
+  "version": "1.0.0",
+  "description": "website for a restaurant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nopale/tropicali.git"
+  },
+  "keywords": [
+    "restaurant",
+    "website"
+  ],
+  "author": "Alessandro Amato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nopale/tropicali/issues"
+  },
+  "homepage": "https://github.com/nopale/tropicali#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.4",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-sass": "^5.0.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "sass": "^1.35.1"
+  }
+}
